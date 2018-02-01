@@ -1,4 +1,3 @@
-
 public class Main {
 	
 	public static void main(String[] args) {
@@ -7,5 +6,4 @@ public class Main {
 		//2. Commit
 		//3. Push to GitHub repository
 	}
-	
 }
